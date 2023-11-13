@@ -3,13 +3,13 @@
 ## Ingredients
 * 1 stick softened butter
 * 4 cups powdered sugar
-* 1 tsp vanilla
-* 1/4 cup milk
+* 2 tsp vanilla
+* 1/2 cup heavy cream
 
 ## Instructions
 1. Beat butter in large bowl until light and fluffy
 2. Gradually add sugar, beating well
-3. Add vanilla and milk, a little at a time
+3. Add vanilla and cream, a little at a time
 
 ## Alternate options
 
