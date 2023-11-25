@@ -1,5 +1,7 @@
 # Sugar Cookies
 
+Makes 24-30 cookies
+
 ## Cookie Dough Ingedients
 * 1 cup butter
 * 1 cup sugar
