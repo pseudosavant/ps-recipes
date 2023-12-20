@@ -3,7 +3,7 @@
 ## Ingredients
 * 3/4 cup unsalted butter room temperature (170g)
 * 8-ounce block cream cheese room temperature (113g)
-* 1 teaspoon vanilla extract
+* 1 1/2 teaspoon vanilla extract
 * 1 pinch kosher salt
 * 4 to 6 cups powdered sugar sifted (480g-720g). Use 6 cups for thicker frosting.
 

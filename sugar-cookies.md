@@ -27,9 +27,5 @@ Makes 24-30 cookies
 7. Bake at 350° for 9-11 minutes, until cookie centers puff up and aren't glossy
 9. Allow them to cool on the cookie sheet
 
-## Icing Directions
-1. Cream the butter until smooth
-2. Slowly add in the powdered sugar, almond extract and milk until smooth and creamy
-3. Add 4 drops of food coloring, if desired.
-4. Spread on the still slightly warm cookies, this will give it a nice smooth finishing look
-5. Once the cookies have completely cooled, chill in the fridge, and serve chilled
+## Icing
+Creamcheese, or buttercream icing
