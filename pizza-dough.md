@@ -1,25 +1,25 @@
-# Pizza Dough
+# Bread Machine Pizza Dough
 
 ## Ingredients
-* 2 1/2 cups flour
-* 1 package (1/4 oz) active dry yeast
-* 1/4 tsp salt
-* 1 cup warm water
-* 1 tbsp olive oil
-* Cornmeal
+### 2 Pizzas
+* 1 cup + 2 tbsp water
+* 2 tbsp oil
+* 2 tbsp sugar
+* 1 tsp salt
+* 3 cups flour
+* 2 tsp yeast
+
+### 3 Pizzas
+* 1 1/2 cup + 3 tbsp water
+* 3 tbsp oil
+* 3 tbsp sugar
+* 1 1/2 tsp salt
+* 4 1/2 cups flour
+* 3 tsp yeast
 
 ## Instructions
-1. Mix a little sugar into the warm water
-2. Sprinkle yeast on top
-3. Wait 10 minutes, until all foamy
-4. Pur into a large bowl
-5. Add flour, salt, olive oil and combine
-6. Kead for 6-8 minutes until you have a moderatley stiff dough that is smooth and elastic (add more flour if needed)
-7. Cover and let rest for 20-30 minutes
-8. Lightly grease pizza pan
-9. Sprinkle cornmeal
-10. Divid dough in half
-11. Place each half on a pan and pan with fingers until it covers whole pan
-12. Make thicker around the edge
-13. Spread sauce and toppings
-14. Bake at 425 for 10-20 minutes
+1. Mix in bread maker on dough cycle for 45-90 minutes. 3 pizza recipe will overflow bread maker if left for full 90 minute cycle.
+2. Oil cutting board and roll out dough
+3. Par bake 4-5 minutes at 450°
+4. Add toppings
+5. Bake 4-5 more minutes
