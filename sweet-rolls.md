@@ -1,11 +1,11 @@
-# Sweet Dinner Rolls
+# Sweet Rolls
 
 ## Ingredients
+* 1/2 cup warm milk
+* 1/2 cup warm water
+* 1/3 cup butter, softened
 * 1/3 cup white sugar
 * 1 tsp salt
-* 1/2 cup warm water
-* 1/2 cup warm milk
-* 1/3 cup butter, softened
 * 3 3/4 cups flour
 * 1 1/2 tsp yeast
 * 1 egg
