@@ -1,11 +1,11 @@
 # Cream Cheese Frosting
 
 ## Ingredients
-* 3/4 cup unsalted butter room temperature (170g)
+* 1/2 cup unsalted butter room temperature (114g)
 * 8-ounce block cream cheese room temperature (113g)
-* 1 1/2 teaspoon vanilla extract
+* 2 teaspoon vanilla extract
 * 1 pinch kosher salt
-* 4 to 6 cups powdered sugar sifted (480g-720g). Use 6 cups for thicker frosting.
+* 5 cups powdered sugar sifted (600g). Use 6 cups for thicker sweeter frosting.
 
 ## Instructions
 1. In a large mixing bowl, beat the butter on medium speed until creamy
