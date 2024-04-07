@@ -1,18 +1,17 @@
 # Chocolate Chip Cookies
-
-Makes 30-50 cookies 
+Makes 24 cookies
 
 ## Ingredients
-* 1/2 cup sugar
-* 1/2 cup brown sugar
-* 1 stick of softened butter
+* 1/2 cup sugar (100g)
+* 1/2 cup brown sugar (110g)
+* 1/2 cup (1 stick) soften butter (113g)
 * 1 egg - room temperature
-* 1 1/2 tsp vanilla
-* 1 1/2 cup flour
-* 1/2 tsp baking soda
-* 1/2 tsp baking powder
-* 1/4 tsp salt
-* 1 cup chocolate chips
+* 2 tsp vanilla (10g)
+* 1 1/2 cup flour (180g)
+* 1/2 tsp baking soda (2.5g)
+* 1/2 tsp baking powder (2.5g)
+* 1/4 tsp salt (1.5g)
+* 1 cup chocolate chips (175g)
 
 ## Dough Instructions
 1. Very thoroughly cream the room temperature butter, sugar, and brown sugar
@@ -28,9 +27,17 @@ Makes 30-50 cookies
 3. Place dough balls onto parchment paper on 2 cookie sheets
 4. Flatten the cookie balls slightly
 5. Bake both sheets simultaneously - middle and lower racks
-6. After 5 minutes, switch the cookie sheets between racks
-7. Bake for 5 more minutes
+6. After 6 minutes, switch the cookie sheets between racks
+7. Bake for 6 more minutes
 8. Remove from oven - the cookies should *not* have cooked enough to brown
 
 ## Optional
-* Add 1/4 to 1/3 cup of M&Ms to the chocolate chips
+* Add 1/4 cup of M&Ms to the chocolate chips (45g)
+
+## Nutritional Information (per cookie)
+* Calories: 132
+* Fat: 6g
+* Protein: 1.5g
+* Carbohydrates: 19g
+* Sugar: 13 g
+* Fiber: 0.2g
