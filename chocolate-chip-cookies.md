@@ -39,5 +39,5 @@ Makes 24 cookies
 * Fat: 6g
 * Protein: 1.5g
 * Carbohydrates: 19g
-* Sugar: 13 g
+* Sugar: 13g
 * Fiber: 0.2g
