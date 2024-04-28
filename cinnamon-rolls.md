@@ -36,6 +36,9 @@
     3. Cut quarters in thirds
 6. Bake 12-15 minutes
 
+## Recommended Frosting
+[Cream cheese frosting](cream-cheese-frosting.md) recommended
+
 ## Nutritional Information (per roll)
 * Calories: 335
 * Fat: 10g

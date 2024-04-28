@@ -12,6 +12,7 @@ Makes 24 cookies
 * 1/2 tsp baking powder (2.5g)
 * 1/4 tsp salt (1.5g)
 * 1 cup chocolate chips (175g)
+* Sea Salt
 
 ## Dough Instructions
 1. Very thoroughly cream the room temperature butter, sugar, and brown sugar
@@ -23,13 +24,13 @@ Makes 24 cookies
 
 ## Baking Instructions
 1. Pre-heat oven to 350° (convection preferred)
-2. Roll dough into 2 tbsp balls
+2. Scoop dough into 2 tbsp balls
 3. Place dough balls onto parchment paper on 2 cookie sheets
-4. Flatten the cookie balls slightly
-5. Bake both sheets simultaneously - middle and lower racks
-6. After 6 minutes, switch the cookie sheets between racks
-7. Bake for 6 more minutes
-8. Remove from oven - the cookies should *not* have cooked enough to brown
+4. Bake both sheets simultaneously - middle and lower racks
+5. After 6 minutes, switch the cookie sheets between racks
+6. Bake for 6 more minutes
+7. Remove from oven - the cookies should *not* have cooked enough to brown
+8. Sprinkle ground sea salt on top of each cookie, immediately after removing from oven
 
 ## Optional
 * Add 1/4 cup of M&Ms to the chocolate chips (45g)
