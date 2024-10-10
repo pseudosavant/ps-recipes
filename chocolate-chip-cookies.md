@@ -10,14 +10,15 @@ Makes 24-28 cookies
 * 1/2 tsp baking powder (2.5g)
 * 2 tsp vanilla (10g)
 * 1 egg - room temperature
-* 1 1/2 cup flour (220g)
+* 1 cup flour (147g)
+* 1/2 cup oatmeal
 * 1 cup chocolate chips (175g)
 * Sea Salt
 
 ## Dough Instructions
 1. Very thoroughly cream the room temperature butter, sugar, and brown sugar
 2. Add remaining ingredients, except the chocolate chips and sea salt, while the mixer is running
-3. Add chocolate chips into the dough, and mix very briefly (<10 seconds)
+3. Add chocolate chips into the dough while the mixer is off. Mix very briefly (<10 seconds).
 
 ## Baking Instructions
 1. Pre-heat oven to 375° (convection preferred)
