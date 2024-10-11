@@ -12,7 +12,7 @@ Makes 24-28 cookies
 * 1 egg - room temperature
 * 1 cup flour (147g)
 * 1/2 cup oatmeal
-* 1 cup chocolate chips (175g)
+* 1 cup chocolate chips (mix of dark, semi-sweet, and milk chocolate) (175g)
 * Sea Salt
 
 ## Dough Instructions
