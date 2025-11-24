@@ -5,7 +5,7 @@
 * 1/2 cup warm buttermilk (122g)
 * 1/3 cup butter, softened (75g)
 * 1/3 cup white sugar (67g)
-* 2 1/2 tsp yeast (7g)
+* 2 1/2 tsp yeast (8g)
 * 1 tsp salt (6g)
 * 1 egg
 * 3 3/4 cups flour (450g)

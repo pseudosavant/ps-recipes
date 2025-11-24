@@ -1,21 +1,21 @@
 # Sweet Rolls
 
-## Ingredients
-* 1/2 cup warm milk
-* 1/2 cup warm water
-* 1/3 cup butter, softened
-* 1/3 cup white sugar
-* 1 tsp salt
-* 3 3/4 cups flour
-* 1 1/2 tsp yeast
+## Dough Ingredients
+* 1/2 cup warm milk (122g)
+* 1/2 cup warm buttermilk (122g)
+* 1/3 cup butter, softened (75g)
+* 1/3 cup white sugar (67g)
+* 2 1/2 tsp yeast (8g)
+* 1 tsp salt (6g)
 * 1 egg
+* 3 3/4 cups flour (450g)
 
 ## Dough Prep
 1. Preheat oven to 400 degrees
-2. Warm up milk, water, and butter
-3. Add sugar, salt, water, milk, and butter
-4. Add 3 cups flour, yeast, then the remaining 3/4 cups of flour
-5. Add egg
+2. Warm up liquids and butter, ~1 minute in microwave
+3. Add warm liquids, sugar, salt, and yeast
+5. Beat egg and add to mixture 
+4. Add flour
 6. Mix dough in bread maker
 
 ## Roll Prep and Baking
