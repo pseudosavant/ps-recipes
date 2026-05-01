@@ -28,7 +28,7 @@
 1. Preheat oven to 375°F.
 2. Prepare the apple filling.
    1. Peel, core, and slice the apples into a large microwave-safe glass bowl.  
-      An electric apple peeler and a 16-slice apple cutter make this *much* faster.
+      An [electric apple peeler](https://www.amazon.com/dp/B094YR66JG) and a [16-slice apple cutter](https://www.amazon.com/dp/B00EZQQO9Q) make this *much* faster.
    2. In a separate bowl, mix the dry pie filling ingredients.
    3. Add the butter and lemon juice to the apples, then sprinkle the dry mixture over the top.
    4. Cover the bowl tightly with plastic wrap. Optionally, poke one small vent hole in the plastic wrap with a knife.
