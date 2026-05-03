@@ -46,3 +46,17 @@
 6. Add the apple filling and spread it evenly.
 7. Cover evenly with crumb topping.
 8. Bake for 30-35 minutes, until the crust and crumb topping are golden brown.
+
+## Nutrition Estimate
+
+| Nutrient | Whole pie | Per 1/8 slice |
+|---|---:|---:|
+| Calories | 4,820 | 603 |
+| Total fat | 223 g | 27.9 g |
+| Saturated fat | 130 g | 16.2 g |
+| Carbs | 665 g | 83.1 g |
+| Sugar | 399 g | 49.9 g |
+| Fiber | 18 g | 2.3 g |
+| Protein | 38 g | 4.7 g |
+| Sodium | 2,469 mg | 309 mg |
+| Cholesterol | 345 mg | 43 mg |
